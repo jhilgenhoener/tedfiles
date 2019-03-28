@@ -1,9 +1,24 @@
 [
 	{
+                "uid": "4",
+                "updateDate": "2019-04-01T00:00:02.0Z",
+                "titleText": "Was passiert in der Zukunft?",
+                "mainText": "Ha ha April april, du bist drauf reingefallen.",
+                "redirectionURL": "http://www.prodyna.com"
+        },
+	{
 		"uid": "3",
 		"updateDate": "2019-03-28T00:00:02.0Z",
 		"titleText": "TED Hands-On Training: Vorbereitung",
 		"mainText": "Heute habe ich die coding guidelines geschrieben.",
 		"redirectionURL": "http://www.prodyna.com"
-	}
+	},
+	{
+                "uid": "2",
+                "updateDate": "2019-03-28T00:00:02.0Z",
+                "titleText": "TED Hands-On Training: Vorbereitung",
+                "mainText": "Heute habe ich die coding guidelines geschrieben.",
+                "redirectionURL": "http://www.prodyna.com"
+        }
+
 ]
